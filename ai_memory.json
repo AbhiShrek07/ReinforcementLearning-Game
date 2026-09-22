@@ -1,0 +1,42 @@
+{
+  "1,2,2,2": {
+    "spawn_more_soldiers": -2.5,
+    "spawn_more_tanks": 0.0,
+    "balanced_army": 0.0,
+    "rush_attack": -3.0,
+    "defend": 0.0,
+    "spread_units": 0.0
+  },
+  "2,0,2,2": {
+    "spawn_more_soldiers": -134.5,
+    "spawn_more_tanks": -78.24687499999999,
+    "balanced_army": -106.15,
+    "rush_attack": -84.1875,
+    "defend": -90.775,
+    "spread_units": -86.11953125
+  },
+  "1,1,2,2": {
+    "spawn_more_soldiers": 0.0,
+    "spawn_more_tanks": 2.0,
+    "balanced_army": 0.0,
+    "rush_attack": 0.0,
+    "defend": 0.0,
+    "spread_units": 0.0
+  },
+  "2,1,2,2": {
+    "spawn_more_soldiers": -58.55,
+    "spawn_more_tanks": -67.09375,
+    "balanced_army": -53.4,
+    "rush_attack": -57.85,
+    "defend": -50.5,
+    "spread_units": -276.5
+  },
+  "1,0,2,2": {
+    "spawn_more_soldiers": -64.5,
+    "spawn_more_tanks": 0.0,
+    "balanced_army": 0.0,
+    "rush_attack": 0.0,
+    "defend": 0.0,
+    "spread_units": -309.0
+  }
+}
